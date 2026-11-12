@@ -117,15 +117,15 @@ Puntos destacados:
 
 ## Mi rol
 
-<!-- BORRADOR armado a partir de mis commits: revisar y ajustar antes de publicar. -->
+Proyecto en equipo. Mis principales aportes, sobre todo en el backend:
 
-Proyecto en equipo. Mis principales aportes:
-
-- **Integración con Google Calendar**: sincronización de eventos y endpoint de sync.
-- **Informe diario con IA**: implementación de los reportes generados por IA con Gemini 2.5 y su historial.
-- **Usuarios y configuración**: CRUD de usuarios, configuración de jornada y reportes por usuario.
-- **Seguridad**: rate limiting de la API, validación de links maliciosos y escaneo de secretos (gitleaks).
-- **Frontend**: página de administración e historial de informes.
+- **Base del backend**: estructura de la API (Express), dockerización, esquema de Prisma, migraciones y seed inicial.
+- **Autenticación y seguridad**: login con Google, middleware de autenticación y manejo de errores, cifrado de
+  tokens, rate limiting de la API y validación de links maliciosos, con sus tests.
+- **Usuarios y configuración**: CRUD de usuarios, configuración de la jornada y reportes por usuario.
+- **Integraciones**: sincronización de Google Calendar y unificación de la línea de tiempo de actividades.
+- **Informe diario con IA**: generación de los informes con Gemini 2.5 y su historial.
+- **Frontend**: correcciones en el dashboard, el historial y la página de administración.
 
 ## Contacto
 
