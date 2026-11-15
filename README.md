@@ -117,7 +117,7 @@ Puntos destacados:
 
 ## Mi rol
 
-Proyecto en equipo. Mis principales aportes, sobre todo en el backend:
+Proyecto en equipo. Mi aporte principal fue el backend, y también trabajé en el frontend:
 
 - **Base del backend**: estructura de la API (Express), dockerización, esquema de Prisma, migraciones y seed inicial.
 - **Autenticación y seguridad**: login con Google, middleware de autenticación y manejo de errores, cifrado de
@@ -125,8 +125,10 @@ Proyecto en equipo. Mis principales aportes, sobre todo en el backend:
 - **Usuarios y configuración**: CRUD de usuarios, configuración de la jornada y reportes por usuario.
 - **Integraciones**: sincronización de Google Calendar y unificación de la línea de tiempo de actividades.
 - **Informe diario con IA**: generación de los informes con Gemini 2.5 y su historial.
-- **Frontend**: correcciones en el dashboard, el historial y la página de administración.
+- **Frontend**: arreglos en el dashboard (mapeo y validación de actividades), el historial de informes, la página de
+  administración, el header y la barra lateral, y la imagen del login con Google, con sus tests.
 
 ## Contacto
 
-> Datos de contacto: próximamente.
+- Email: [valenzuela.felipe205@gmail.com](mailto:valenzuela.felipe205@gmail.com)
+- LinkedIn: [felipe-valenzuelaa](https://www.linkedin.com/in/felipe-valenzuelaa/)
